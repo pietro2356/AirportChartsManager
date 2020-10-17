@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAAirportsChartsManager", "CAAirportsChartsManaget\CAAirportsChartsManager.csproj", "{C774D9E5-9B15-4BD1-835A-9E07A4AF0710}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLAirportChartsManager", "CLAirportChartsManager\CLAirportChartsManager.csproj", "{205BA801-F238-4AE3-83AA-7BD58E71F75E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAirportChartsManager", "WFAirportChartsManager\WFAirportChartsManager.csproj", "{175CDD23-9363-4653-9F54-6A4CBB8F6A42}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C774D9E5-9B15-4BD1-835A-9E07A4AF0710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C774D9E5-9B15-4BD1-835A-9E07A4AF0710}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C774D9E5-9B15-4BD1-835A-9E07A4AF0710}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C774D9E5-9B15-4BD1-835A-9E07A4AF0710}.Release|Any CPU.Build.0 = Release|Any CPU
 		{205BA801-F238-4AE3-83AA-7BD58E71F75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{205BA801-F238-4AE3-83AA-7BD58E71F75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{205BA801-F238-4AE3-83AA-7BD58E71F75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
