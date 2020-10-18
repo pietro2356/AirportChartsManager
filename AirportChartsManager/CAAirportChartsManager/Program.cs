@@ -12,7 +12,7 @@ namespace CAAirportChartsManager
             Console.Write("Inserisci il nome del file: ");
             string nome = Console.ReadLine();
 
-            Console.WriteLine(Downlaod.DownloadFile(ICAO, nome));
+            Console.WriteLine(Downlaod.DownloadChartsFile(ICAO, nome));
         }
     }
 }

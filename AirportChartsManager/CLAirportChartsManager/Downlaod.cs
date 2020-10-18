@@ -13,7 +13,7 @@ namespace CLAirportChartsManager
 
         public Downlaod() { }
 
-        public static string DownloadFile(string ICAO, string name)
+        public static string DownloadChartsFile(string ICAO, string name)
         {
             try
             {
@@ -22,6 +22,19 @@ namespace CLAirportChartsManager
                 WebClient webClient = new WebClient();
                 webClient.DownloadFile(new Uri(uri), fileName);
                 return fileName;
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+        }
+        public static string DownloadFile(string url, string name)
+        {
+            try
+            {
+                WebClient webClient = new WebClient();
+                webClient.DownloadFile(new Uri(url), name);
+                return name;
             }
             catch (Exception ex)
             {
