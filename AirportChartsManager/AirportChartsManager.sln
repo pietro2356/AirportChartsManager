@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLAirportChartsManager", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAirportChartsManager", "WFAirportChartsManager\WFAirportChartsManager.csproj", "{175CDD23-9363-4653-9F54-6A4CBB8F6A42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAAirportChartsManager", "CAAirportChartsManager\CAAirportChartsManager.csproj", "{380057F2-F3A8-4415-8E50-FE4920256075}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{175CDD23-9363-4653-9F54-6A4CBB8F6A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{175CDD23-9363-4653-9F54-6A4CBB8F6A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{175CDD23-9363-4653-9F54-6A4CBB8F6A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380057F2-F3A8-4415-8E50-FE4920256075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380057F2-F3A8-4415-8E50-FE4920256075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380057F2-F3A8-4415-8E50-FE4920256075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380057F2-F3A8-4415-8E50-FE4920256075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

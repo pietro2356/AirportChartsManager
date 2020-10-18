@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CAAirportChartsManager/1.0.0": {
+        "dependencies": {
+          "CLAirportChartsManager": "1.0.0"
+        },
+        "runtime": {
+          "CAAirportChartsManager.dll": {}
+        }
+      },
+      "CLAirportChartsManager/1.0.0": {
+        "runtime": {
+          "CLAirportChartsManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAAirportChartsManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLAirportChartsManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

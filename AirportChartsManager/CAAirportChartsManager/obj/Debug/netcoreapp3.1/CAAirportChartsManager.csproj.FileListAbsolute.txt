@@ -1,0 +1,16 @@
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.exe
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.deps.json
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.runtimeconfig.json
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.runtimeconfig.dev.json
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CAAirportChartsManager.pdb
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CLAirportChartsManager.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CLAirportChartsManager.pdb
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.csprojAssemblyReference.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.AssemblyInfoInputs.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.AssemblyInfo.cs
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.csproj.CoreCompileInputs.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.csproj.CopyComplete
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.pdb
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.genruntimeconfig.cache

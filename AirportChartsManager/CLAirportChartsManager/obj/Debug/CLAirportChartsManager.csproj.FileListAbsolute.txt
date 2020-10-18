@@ -1,0 +1,6 @@
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\bin\Debug\CLAirportChartsManager.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\bin\Debug\CLAirportChartsManager.pdb
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\obj\Debug\CLAirportChartsManager.csprojAssemblyReference.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\obj\Debug\CLAirportChartsManager.csproj.CoreCompileInputs.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\obj\Debug\CLAirportChartsManager.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\obj\Debug\CLAirportChartsManager.pdb

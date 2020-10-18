@@ -9,21 +9,24 @@ namespace CLAirportChartsManager
 {
     public class Downlaod
     {
-        private WebClient webClient = new WebClient();
         private static string url = "https://charts.avbot.in/";
-        private string ICAO = "";
 
-
-        public Downlaod(string ICAO)
-        {
-            this.ICAO = ICAO;
-        }
         public Downlaod() { }
 
-
-        public void DownloadFile()
+        public static string DownloadFile(string ICAO, string name)
         {
-            webClient.DownloadDataAsync(new Uri(url + ICAO + ".pdf"));
+            try
+            {
+                string uri = url + ICAO + ".pdf";
+                string fileName = ICAO + " - " + name + ".pdf";
+                WebClient webClient = new WebClient();
+                webClient.DownloadFile(new Uri(uri), fileName);
+                return fileName;
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
         }
     }
 }
