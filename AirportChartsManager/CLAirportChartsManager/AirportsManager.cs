@@ -13,31 +13,37 @@ namespace CLAirportChartsManager
     public class AirportsManager
     {
         private List<Airport> airports = new List<Airport>();
-        public AirportsManager() 
+        private string path;
+
+        public AirportsManager(string dataPath) 
         {
-            throw new NotImplementedException("Da Fixare");
-            try
-            {
-                //FIXME: Da fixare il PATH.
-                string path = @"c:\VM\ICAOData.csv";
-                using (TextReader reader = File.OpenText(path))
-                {
-                    CsvReader csv = new CsvReader((IParser)reader);
-                    csv.Configuration.Delimiter = ",";
-                    csv.Configuration.MissingFieldFound = null;
-                    while (csv.Read())
-                    {
-                        Airport Record = csv.GetRecord<Airport>();
-                        airports.Add(Record);
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
+            this.path = dataPath;
         }
 
+        public bool loadData(string country)
+        {
+            string line;
+
+            FileStream fs = new FileStream(path, FileMode.Open);
+            StreamReader sr = new StreamReader(fs);
+
+            string headerLine = sr.ReadLine();
+
+            while ((line = sr.ReadLine()) != null)
+            {
+                string[] d = line.Split(',');
+                
+                if (d.Length == 13)
+                {
+                    string coo = String.Concat(d[11], d[12]);
+                    airports.Add(new Airport(d[0], d[1], d[2], d[3], d[4], d[5], d[6], d[7], d[8], d[9], d[10], coo));
+                }
+                //line = sr.ReadLine();
+            }
+            sr.Close();
+            return true;
+
+        }
 
         public List<Airport> getAirports()
         {
@@ -54,7 +60,7 @@ namespace CLAirportChartsManager
                 }
                 continue;
             }
-            return null;
+            return new Airport();
         }
     }
 }

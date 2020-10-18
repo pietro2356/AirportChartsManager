@@ -15,7 +15,7 @@ namespace CLAirportChartsManager
         public string ident { get; set; }
         public string type { get; set; }
         public string name { get; set; }
-        public int elevationFt { get; set; }
+        public string elevationFt { get; set; }
         public string continent { get; set; }
         public string isoCountry { get; set; }
         public string isoRegion { get; set; }
@@ -24,6 +24,23 @@ namespace CLAirportChartsManager
         public string iataCode { get; set; }
         public string localCode { get; set; }
         public string coordinates { get; set; }
+
+        public Airport(string ident, string type, string name, string elevationFt, string continent, string isoCountry, string isoRegion, string municipality, string gpsCode, string iataCode, string localCode, string coordinates)
+        {
+            this.ident = ident;
+            this.type = type;
+            this.name = name;
+            this.elevationFt = elevationFt;
+            this.continent = continent;
+            this.isoCountry = isoCountry;
+            this.isoRegion = isoRegion;
+            this.municipality = municipality;
+            this.gpsCode = gpsCode;
+            this.iataCode = iataCode;
+            this.localCode = localCode;
+            this.coordinates = coordinates;
+        }
+        public Airport() { }
     }
 
     public class AirportClassMap : ClassMap<Airport>
