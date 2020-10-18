@@ -14,3 +14,8 @@ C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManage
 C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.dll
 C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.pdb
 C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\obj\Debug\netcoreapp3.1\CAAirportChartsManager.genruntimeconfig.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CLAirportChartsManager.dll.config
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\CsvHelper.xml
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CAAirportChartsManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.xml
