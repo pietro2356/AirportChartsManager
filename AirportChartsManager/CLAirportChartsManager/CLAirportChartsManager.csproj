@@ -55,13 +55,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Airport.cs" />
+    <Compile Include="AirportTypes.cs" />
     <Compile Include="Downlaod.cs" />
     <Compile Include="AirportsManager.cs" />
+    <Compile Include="Exception.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ICAOData.csv" />
-    <None Include="airports.json" />
     <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>

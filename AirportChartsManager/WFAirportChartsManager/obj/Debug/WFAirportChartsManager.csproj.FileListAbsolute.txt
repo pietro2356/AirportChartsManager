@@ -1,0 +1,10 @@
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\bin\Debug\WFAirportChartsManager.exe.config
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\bin\Debug\WFAirportChartsManager.exe
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\bin\Debug\WFAirportChartsManager.pdb
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.csprojAssemblyReference.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.Form1.resources
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.Properties.Resources.resources
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.csproj.GenerateResource.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.csproj.CoreCompileInputs.cache
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.exe
+C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\WFAirportChartsManager\obj\Debug\WFAirportChartsManager.pdb

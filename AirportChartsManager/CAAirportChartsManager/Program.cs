@@ -16,14 +16,12 @@ namespace CAAirportChartsManager
             //Console.WriteLine(Downlaod.DownloadChartsFile(ICAO, nome));
 
             AirportsManager am = new AirportsManager(@"C:\Users\pietro\source\repos\pietro2356\AirportChartsManager\AirportChartsManager\CLAirportChartsManager\ICAOData.csv");
-            am.loadData("IT");
-            List<Airport> lista = am.getAirports();
+            am.loadData();
+            Airport a = am.searchAirport("LIDDFT");
 
-            foreach (Airport item in lista)
-            {
-                Console.WriteLine(item.ident + " - Nome: " + item.name +  " -  Coordinate: " + item.coordinates);
-            }
-            
+            Console.WriteLine(a.ident);
+            Console.WriteLine(a.name);
+            Console.WriteLine(a.type);
         }
     }
 }
